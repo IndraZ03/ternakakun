@@ -311,7 +311,7 @@ def main():
             wait = WebDriverWait(driver, 10)
 
             if pindah_sukses:
-                print("\nMenunggu halaman profil dimuat...")
+                print("\nMenunggu halaman profil dimuat....")
                 time.sleep(5)
             else:
                 print("\nBuntu. Scroll...")
