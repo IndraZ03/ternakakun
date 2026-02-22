@@ -17,7 +17,7 @@ SLEEP_TIME_MINUTES = 5
 
 def buka_chrome_debug():
     chrome_path = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
-    user_data_dir = r"C:\tiktok_automation\user_data\1"
+    user_data_dir = r"C:\tiktok_automation\user_data\3"
     
     print("Mencoba membuka Chrome dalam mode debug...")
     
